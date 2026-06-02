@@ -1,0 +1,8 @@
+docai-env/
+chroma_db/
+stored_charts/
+uploaded_docs/
+__pycache__/
+*.pyc
+.env
+*.pdf
